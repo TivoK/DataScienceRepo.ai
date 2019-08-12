@@ -1,2 +1,2 @@
-# DataScienceRepo.io
-An Assortment of Data Science Projects
+# DataScienceRepo.ai
+This repository contains a collection of  my Data Science related projects; specifically focused on Machine Learning and Deep Learning methods.  The assortment of  projects contained in the repository leverage  a variety of technologies/algorithms; and are organized as such. Please note that the content found here is open-source and can be utilized as a study or reference aid for the general public in implementing their own prediction models.
