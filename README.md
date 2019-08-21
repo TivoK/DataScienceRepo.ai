@@ -16,6 +16,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <thead>
 <tbody>
 <tr>
+<font size="3">
 <td align="center">Regression</td>
 <td align="center">Univariate Linear Regression</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, SciPy & NumPy</td>
@@ -24,7 +25,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center"><a href="https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/TivoK/deda2bdfc10472596009625c92682b79/raw/af3a32323a9e7e022645863c349c60c79052aa4e/NBA.ipynb">Nbviewer</a></td>
  
 </tr>
-
+</font>
 </tbody>
   
 <table>
