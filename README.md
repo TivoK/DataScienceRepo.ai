@@ -16,7 +16,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <thead>
 <tbody>
 <tr>
-<font size="3">
+<font size="1">
 <td align="center">Regression</td>
 <td align="center">Univariate Linear Regression</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, SciPy & NumPy</td>
