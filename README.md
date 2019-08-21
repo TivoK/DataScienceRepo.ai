@@ -1,5 +1,4 @@
-<img src="https://img.icons8.com/pastel-glyph/64/000000/increase-profits.png" width=200 height=200>
- # DataScienceRepo.ai 
+# DataScienceRepo.ai 
 This repository contains a collection of  my Data Science related projects; specifically focused on Machine Learning - including Supervised, Unsupervised and Deep Learning methods.  The assortment of  projects contained in the repository leverage  a variety of technologies/algorithms; and are organized as such. Please note that the content found here is open-source and can be utilized as a study or reference aid for the general public in implementing their own prediction models.
 <br>
 <br>
@@ -32,3 +31,4 @@ This repository contains a collection of  my Data Science related projects; spec
 </tbody>
   
 <table>
+<img src="https://img.icons8.com/pastel-glyph/64/000000/increase-profits.png" class='center'>
