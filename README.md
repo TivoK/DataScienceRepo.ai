@@ -4,10 +4,12 @@ This repository contains a collection of  my Data Science related projects; spec
 <table>
 <thead>
 <tr>
-<th align="center">Presentation</th>
-<th align="center">Where</th>
-<th align="center">Date</th>
-<th align="center">Slides</th>
+<th align="center">Objective</th>
+<th align="center">Method</th>
+<th align="center">Library/Frameworks</th>
+<th align="center">Data</th>
+<th align="center">About</th>
+<th align="center">Link</th>  
 </tr>
 <thead>
 <table>
