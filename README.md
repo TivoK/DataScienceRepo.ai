@@ -18,7 +18,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <tbody>
 <tr>
 
-<td align="center"><font size="1">Regression</font></td>
+<td align="center"><font size="-1">Regression</font></td>
 <td align="center">Univariate Linear Regression</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, SciPy & NumPy</td>
 <td align="center">2015 NBA Player Data</td>
