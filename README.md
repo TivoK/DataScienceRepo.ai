@@ -31,4 +31,12 @@ This repository contains a collection of  my Data Science related projects; spec
 </tbody>
   
 <table>
+  
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>  
 <img src="https://img.icons8.com/pastel-glyph/64/000000/increase-profits.png" class='center'>
