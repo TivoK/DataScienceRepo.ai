@@ -43,4 +43,27 @@ This repository contains a collection of  my Data Science related projects; spec
   
 <table>
   
-### Web Scraping/Data Mining
+### Web Scraping/Data Mining & Data Cleaning Projects
+<table>
+<thead>
+<tr>
+<th align="center">Library/Frameworks</th>
+<th align="center">About</th>
+<th align="center">Link</th>  
+</tr>
+<thead>
+
+<tbody>
+<tr>
+
+
+<td align="center">Beautiful Soup & Pandas</td>
+<td align="center">Scraping NBA player data from a webpage</td>  
+<td align="center"><a href="">Nbviewer</a></td>
+
+</tr>
+
+
+</tbody>
+  
+<table>
