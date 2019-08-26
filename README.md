@@ -59,7 +59,7 @@ This repository contains a collection of  my Data Science related projects; spec
 
 <td align="center">Beautiful Soup & Pandas</td>
 <td align="center">Scraping NBA player data from a webpage</td>  
-<td align="center"><a href="">Nbviewer</a></td>
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/780bc9056d4792002c838a4d6683d296">Nbviewer</a></td>
 
 </tr>
 
