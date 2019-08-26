@@ -25,8 +25,19 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">We explore NBA player data to create a model that predicts their listed playing weight. Ultimately, we find that the data features allow us to construct a simple linear regression model. Watch me analyze the data and a make prediction using Sci-Kit Learn!</td>  
 <td align="center"><a href="https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/TivoK/deda2bdfc10472596009625c92682b79/raw/af3a32323a9e7e022645863c349c60c79052aa4e/NBA.ipynb">Nbviewer</a></td>
 
+</tr>
+<tr>
+
+<td align="center"><font size="1">Regression</font></td>
+<td align="center">Multivariate Linear Regression (Ridge Regression/Polynomial Regression)</td>
+<td align="center">Sci-Kit Learn, Pandas, Matplotlib, SciPy & NumPy</td>
+<td align="center">UCI Auto MPG Data</td>
+<td align="center">A comparative analysis of a Linear Ridge Regression model and a Polynomial Regression model. We compare both models using the same data set to see which model is better at predicting the MPG for a given vehicle.</td>  
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/4c88b397f8bc31f42756b00256c5a2d4">Nbviewer</a></td>
+
 
 </tr>
+
 
 </tbody>
   
