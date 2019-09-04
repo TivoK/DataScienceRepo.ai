@@ -41,7 +41,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <tr>
 
 <td align="center"><font size="1">Regression</font></td>
-<td align="center">Multivariate Polynomial Regression (Ridge Regression/Lasso Regression/Elastic-Net)</td>
+<td align="center">Multivariate Polynomial Regression (Ridge /Lasso /Elastic-Net)</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib & NumPy</td>
 <td align="center">CalcoFi</td>
 <td align="center">A comparison between Polynomial Models where we evaluate models using Ridge, Lasso and Elastic-Net Regression techniques. </td>  
