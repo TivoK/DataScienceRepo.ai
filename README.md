@@ -55,7 +55,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">KNN/Decision Tree</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib & NumPy</td>
 <td align="center">UCI Audit Data</td>
-<td align="center">An assessment of KNN classification model vs. a Decision Tree classifier. </td>  
+<td align="center">An assessment of a KNN classification model vs. a Decision Tree classifier. </td>  
 <td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/7a62e07756a10e37e57e81bc89c8ed50">Nbviewer</a></td>
 
 
