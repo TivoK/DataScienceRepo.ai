@@ -52,7 +52,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <tr>
 
 <td align="center"><font size="1">Classification</font></td>
-<td align="center">Knn/Decision Tree</td>
+<td align="center">KNN/Decision Tree</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib & NumPy</td>
 <td align="center">UCI Audit Data</td>
 <td align="center">An assessment of KNN classification model vs. a Decision Tree classifier. </td>  
