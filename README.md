@@ -100,7 +100,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, SciPy & NumPy</td>
 <td align="center">Chicago City Data Portal API</td>
 <td align="center">A Data Engineering and Dimension Reduction project with Chicago City Block Data.</td>  
-<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/4c88b397f8bc31f42756b00256c5a2d4">Nbviewer</a></td>
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/62ac49661961e9953253891ff8202bfa">Nbviewer</a></td>
 
 
 </tr>
