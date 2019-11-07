@@ -69,6 +69,47 @@ This repository contains a collection of  my Data Science related projects; spec
   
 <table>
   
+  ### Unsupervised Learning
+<table>
+<thead>
+<tr>
+<th align="center">Objective</th>
+<th align="center">Method</th>
+<th align="center">Library/Frameworks</th>
+<th align="center">Data</th>
+<th align="center">About</th>
+<th align="center">Link</th>  
+</tr>
+<thead>
+
+<tbody>
+<tr>
+
+<td align="center"><font size="1">Clustering</font></td>
+<td align="center">K-Means</td>
+<td align="center">Sci-Kit Learn, Pandas, Matplotlib, & NumPy</td>
+<td align="center">Alpha Vantage API</td>
+<td align="center">Perform K-Means Clustering on Index Fund Closing Price Movements. We'll see if the K-Means Algorithm can find insights related to fund types based on Closing Prices.</td>  
+<td align="center"><a href="https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/TivoK/deda2bdfc10472596009625c92682b79/raw/af3a32323a9e7e022645863c349c60c79052aa4e/NBA.ipynb">Nbviewer</a></td>
+
+</tr>
+<tr>
+
+<td align="center"><font size="1">Dimension Reduction</font></td>
+<td align="center">PCA</td>
+<td align="center">Sci-Kit Learn, Pandas, Matplotlib, SciPy & NumPy</td>
+<td align="center">Chicago City Data Portal API</td>
+<td align="center">A Data Engineering and Dimension Reduction project with Chicago City Block Data.</td>  
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/4c88b397f8bc31f42756b00256c5a2d4">Nbviewer</a></td>
+
+
+</tr>
+
+</tbody>
+  
+<table>
+  
+  
 ### Web Scraping/Data Mining & Data Cleaning Projects
 <table>
 <thead>
