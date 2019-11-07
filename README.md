@@ -86,11 +86,11 @@ This repository contains a collection of  my Data Science related projects; spec
 <tr>
 
 <td align="center"><font size="1">Clustering</font></td>
-<td align="center">K-Means</td>
+<td align="center">K-Means / T-SNE</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, & NumPy</td>
 <td align="center">Alpha Vantage API</td>
 <td align="center">Perform K-Means Clustering on Index Fund Closing Price Movements. We'll see if the K-Means Algorithm can find insights related to fund types based on Closing Prices.</td>  
-<td align="center"><a href="https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/TivoK/deda2bdfc10472596009625c92682b79/raw/af3a32323a9e7e022645863c349c60c79052aa4e/NBA.ipynb">Nbviewer</a></td>
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/1e749b160fbbc748cd4982332bc2c7e3">Nbviewer</a></td>
 
 </tr>
 <tr>
