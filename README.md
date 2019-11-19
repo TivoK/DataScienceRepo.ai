@@ -104,6 +104,17 @@ This repository contains a collection of  my Data Science related projects; spec
 
 
 </tr>
+<tr>
+
+<td align="center"><font size="1">Hierarchical Clustering</font></td>
+<td align="center">PCA</td>
+<td align="center">Scipy, Pandas, Matplotlib</td>
+<td align="center">Spotify API</td>
+<td align="center">A Data Engineering and Clustering project with songs from The Beatles.</td>  
+<td align="center"><a href="h">Nbviewer</a></td>
+
+
+</tr>
 
 </tbody>
   
