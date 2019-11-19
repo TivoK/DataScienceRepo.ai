@@ -111,7 +111,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Scipy, Pandas, Matplotlib</td>
 <td align="center">Spotify API</td>
 <td align="center">A Data Engineering and Clustering project with songs from The Beatles.</td>  
-<td align="center"><a href="h">Nbviewer</a></td>
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/5332aaf629bfe1f545a4ad1cf3c4b1eb">Nbviewer</a></td>
 
 
 </tr>
