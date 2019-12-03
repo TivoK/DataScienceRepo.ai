@@ -60,7 +60,17 @@ This repository contains a collection of  my Data Science related projects; spec
 
 
 </tr>
+<tr>
 
+<td align="center"><font size="1">Ensemble (Classification)</font></td>
+<td align="center">Random Forest/KNN</td>
+<td align="center">Sci-Kit Learn, Pandas & Matplotlib </td>
+<td align="center">stats.nba.com</td>
+<td align="center">An All-Star Classifier based on NBA Player Per Game Averages. </td>  
+<td align="center"><a href="">Nbviewer</a></td>
+
+
+</tr>
 
 
 
