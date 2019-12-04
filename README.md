@@ -32,7 +32,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Multivariate Linear Regression (Ridge Regression/Polynomial Regression)</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, SciPy & NumPy</td>
 <td align="center">UCI Auto MPG Data</td>
-<td align="center">A comparative analysis of a Linear Ridge Regression model and a Polynomial Regression model. We compare both models using the same data set to see which model is better at predicting the MPG for a given vehicle.</td>  
+<td align="center">A comparison of Ridge Regression and Polynomial Regression on MPG Data.</td>  
 <td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/4c88b397f8bc31f42756b00256c5a2d4">Nbviewer</a></td>
 
 
