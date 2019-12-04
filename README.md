@@ -67,7 +67,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Sci-Kit Learn, Pandas & Matplotlib </td>
 <td align="center">stats.nba.com</td>
 <td align="center">An All-Star Classifier based on NBA Player Per Game Averages. </td>  
-<td align="center"><a href="">Nbviewer</a></td>
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/8a9ab15f24c094e7fbd326bc83de5afb">Nbviewer</a></td>
 
 
 </tr>
