@@ -156,7 +156,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Requests/Pandas/Numpy</td>
 <td align="center">Hotel API Data Engineering Project</td>  
 <td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/6405a29dd45ab41ae17a10d63e63a7ed">Nbviewer</a></td>
-
+ 
 </tr>    
     
 </tbody>
