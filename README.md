@@ -72,7 +72,17 @@ This repository contains a collection of  my Data Science related projects; spec
 
 </tr>
 
+<tr>
 
+<td align="center"><font size="1">Multi-Class Classification</font></td>
+<td align="center">Random Forest/KNN</td>
+<td align="center">Sci-Kit Learn, Pandas, Sci-Py & Matplotlib </td>
+<td align="center">Rapid-API.com -Hotel API</td>
+<td align="center">A Multi-Class classfication project for Hotel Star-Ratings. </td>  
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/e54198604ed1a5684c5b6f9987f57f74">Nbviewer</a></td>
+
+
+</tr>
 
 
 </tbody>
