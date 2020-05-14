@@ -83,6 +83,17 @@ This repository contains a collection of  my Data Science related projects; spec
 
 
 </tr>
+<tr>
+
+<td align="center"><font size="1">Classification</font></td>
+<td align="center">SVM/AdaBoost</td>
+<td align="center">Sci-Kit Learn, Pandas, & Matplotlib </td>
+<td align="center">Spotify API</td>
+<td align="center">A Binary-Class classfication project for Metal and Classical tracks. </td>  
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/84b976bfa1046d34aeee757fd462a0c6">Nbviewer</a></td>
+
+
+</tr>
 
 
 </tbody>
