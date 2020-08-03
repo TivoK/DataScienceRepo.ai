@@ -100,7 +100,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Lasso/AdaBoost/GradientBoosting</td>
 <td align="center">Sci-Kit Learn, Pandas, Seaborn, & Matplotlib </td>
 <td align="center">Teleport API</td>
-<td align="center">Predict Life Expectancies around in Urban Areas around the World. features.</td>  
+<td align="center">Predict Life Expectancies in Urban Areas around the World. features.</td>  
 <td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/da7594218d853ba6955231eabb57ccce">Nbviewer</a></td>
 
 
