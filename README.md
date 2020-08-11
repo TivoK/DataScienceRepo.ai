@@ -97,7 +97,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <tr>
 
 <td align="center"><font size="1">Regression</font></td>
-<td align="center">Lasso/AdaBoost/GradientBoosting</td>
+<td align="center">Lasso/AdaBoost/<br>GradientBoosting</td>
 <td align="center">Sci-Kit Learn, Pandas, Seaborn, & Matplotlib </td>
 <td align="center">Teleport API</td>
 <td align="center">Predict Life Expectancies in Urban Areas around the World. features.</td>  
