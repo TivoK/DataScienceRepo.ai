@@ -113,7 +113,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Sci-Kit Learn,BaseMap,XGBoost, Pandas, Seaborn, & Matplotlib </td>
 <td align="center">Mashvisor AirBnb API</td>
 <td align="center">Predict Property Listing Prices in San Fransciso/Bay Area. features.</td>  
-<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/da7594218d853ba6955231eabb57ccce">Nbviewer</a></td>
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/e15fd1d6496c8996c85a2c2c62922643">Nbviewer</a></td>
 
 
 </tr>
