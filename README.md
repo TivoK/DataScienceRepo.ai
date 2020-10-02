@@ -103,7 +103,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center">Predict Life Expectancies in Urban Areas around the World. features.</td>  
 <td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/da7594218d853ba6955231eabb57ccce">Nbviewer</a></td>
 
-
+ 
 </tr>
 
 <tr>
