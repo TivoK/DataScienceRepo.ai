@@ -173,7 +173,33 @@ This repository contains a collection of  my Data Science related projects; spec
 </tbody>
   
 <table>
+
+ ### Deep Learning
+<table>
+<thead>
+<tr>
+<th align="center">Objective</th>
+<th align="center">Method</th>
+<th align="center">Library/Frameworks</th>
+<th align="center">Data</th>
+<th align="center">About</th>
+<th align="center">Link</th>  
+</tr>
+<thead>
+
+<tbody>
+<tr>
+
+<td align="center"><font size="1">Clustering</font></td>
+<td align="center">Neural Networrk/Regression</td>
+<td align="center">Sci-Kit Learn, Pandas, Matplotlib, & NumPy, Keras</td>
+<td align="center">Beijing Multi-Site Air-Quality Data Data Set</td>
+<td align="center">A Deep Learning that predicts S02 concentration levels in Bejing based on air quality monitoring sites.</td>  
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/47105cb56ce32a5819294450b73ba6f5">Nbviewer</a></td>
+
+</tr>
   
+<table>
   
 ### Web Scraping/Data Wrangling & Data Cleaning Projects
 <table>
