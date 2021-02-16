@@ -190,8 +190,8 @@ This repository contains a collection of  my Data Science related projects; spec
 <tbody>
 <tr>
 
-<td align="center"><font size="1">Clustering</font></td>
-<td align="center">Neural Networrk/Regression</td>
+<td align="center"><font size="1">/Regression</font></td>
+<td align="center">Neural Network</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, & NumPy, Keras</td>
 <td align="center">Beijing Multi-Site Air-Quality Data Data Set</td>
 <td align="center">A Deep Learning that predicts S02 (sulphur dioxide) concentration levels in Bejing based on air quality monitoring sites.</td>  
