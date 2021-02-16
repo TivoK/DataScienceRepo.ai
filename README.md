@@ -190,7 +190,7 @@ This repository contains a collection of  my Data Science related projects; spec
 <tbody>
 <tr>
 
-<td align="center"><font size="1">/Regression</font></td>
+<td align="center"><font size="1">Regression</font></td>
 <td align="center">Neural Network</td>
 <td align="center">Sci-Kit Learn, Pandas, Matplotlib, & NumPy, Keras</td>
 <td align="center">Beijing Multi-Site Air-Quality Data Data Set</td>
