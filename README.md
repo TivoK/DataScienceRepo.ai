@@ -198,6 +198,18 @@ This repository contains a collection of  my Data Science related projects; spec
 <td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/47105cb56ce32a5819294450b73ba6f5">Nbviewer</a></td>
 
 </tr>
+ 
+ <tr>
+
+<td align="center"><font size="1">Classification (Multi-Class)</font></td>
+<td align="center">Neural Network</td>
+<td align="center">Sci-Kit Learn, Pandas, Matplotlib, & NumPy, Keras</td>
+<td align="center">OpenML.org Letter Data Set</td>
+<td align="center">A Deep Learning that classify Letters.</td>  
+<td align="center"><a href="https://nbviewer.jupyter.org/gist/TivoK/47105cb56ce32a5819294450b73ba6f5">Nbviewer</a></td>
+
+</tr>
+  
   
 <table>
   
